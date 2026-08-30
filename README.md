@@ -11,7 +11,7 @@ It includes a simple form rendered with **EJS** and securely validates CSRF toke
 - Secure form handling with EJS
 - Simple and beginner-friendly setup
 
-## Technologies Used
+## Technologies Used -
 - Node.js
 - Express.js
 - csurf
